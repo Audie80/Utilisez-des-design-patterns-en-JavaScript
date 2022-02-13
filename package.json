@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "http-server": "^14.1.0"
+  },
+  "name": "utilisez-des-design-patterns-en-javascript",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "http-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Audie80/Utilisez-des-design-patterns-en-JavaScript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Audie80/Utilisez-des-design-patterns-en-JavaScript/issues"
+  },
+  "homepage": "https://github.com/Audie80/Utilisez-des-design-patterns-en-JavaScript#readme"
+}
